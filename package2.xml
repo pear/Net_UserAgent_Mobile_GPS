@@ -5,8 +5,8 @@ http://pear.php.net/dtd/package-2.0
 http://pear.php.net/dtd/package-2.0.xsd">
  <name>Net_UserAgent_Mobile_GPS</name>
  <channel>pear.php.net</channel>
- <summary>gps</summary>
- <description>Interface for GPS.
+ <summary>Interface for GPS</summary>
+ <description>provides methods to get GPS link for mobile device and to parse GPS information.
  
  </description>
  <lead>
@@ -16,7 +16,7 @@ http://pear.php.net/dtd/package-2.0.xsd">
   <active>yes</active>
  </lead>
  <date>2008-06-30</date>
- <time>11:26:26</time>
+ <time>18:32:10</time>
  <version>
   <release>0.1.0</release>
   <api>0.1.0</api>

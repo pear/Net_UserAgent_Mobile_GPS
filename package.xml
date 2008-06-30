@@ -2,8 +2,8 @@
 <!DOCTYPE package SYSTEM "http://pear.php.net/dtd/package-1.0">
 <package version="1.0" packagerversion="1.7.1">
  <name>Net_UserAgent_Mobile_GPS</name>
- <summary>gps</summary>
- <description>Interface for GPS.
+ <summary>Interface for GPS</summary>
+ <description>provides methods to get GPS link for mobile device and to parse GPS information.
  </description>
  <maintainers>
   <maintainer>
