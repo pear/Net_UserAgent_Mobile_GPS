@@ -14,7 +14,7 @@
   </maintainer>
   </maintainers>
  <release>
-  <version>0.0.1</version>
+  <version>0.1.0</version>
   <date>2008-06-30</date>
   <license>php</license>
   <state>alpha</state>
@@ -56,6 +56,14 @@
   </filelist>
  </release>
  <changelog>
+   <release>
+    <version>0.1.0</version>
+    <date>2008-06-30</date>
+    <license>php</license>
+    <state>alpha</state>
+    <notes>alpha version.
+    </notes>
+   </release>
    <release>
     <version>0.0.1</version>
     <date>2008-06-30</date>
